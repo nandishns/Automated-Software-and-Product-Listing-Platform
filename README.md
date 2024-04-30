@@ -1,8 +1,4 @@
-# G2 Hackathon
-
-## Team Name : Try Catch Devs
-
-### Team Members : Manoj Kumar H S , Nandish N S , K S Abhiram
+# Automated Software and Product Listing Platform
 
 ### Website
 https://trycatchdevs.streamlit.app/
@@ -87,11 +83,11 @@ Kubernetes ensures scalable and resilient deployment of all system components.
 
 ## Project Architecture
 
-![image](https://github.com/Manoj-2702/G2Hack/assets/92267208/c6b9b71b-4540-45ab-b600-c4ede2bec064)
+![image](https://github.com/nandishns/Automated-Software-and-Product-Listing-Platform/assets/92267208/c6b9b71b-4540-45ab-b600-c4ede2bec064)
 
 ## Kafka Architecture
 
-![image](https://github.com/Manoj-2702/G2Hack/assets/92267208/4ce38d65-ebe1-4a2f-8db8-ea07ac804fc9)
+![image](https://github.com/nandishns/Automated-Software-and-Product-Listing-Platform/assets/92267208/4ce38d65-ebe1-4a2f-8db8-ea07ac804fc9)
 
 ## Streamlit Website
 
@@ -178,8 +174,8 @@ kubectl get pods
 kubectl get deployments
 ```
 ## mongodb atlas clustor
-![image](https://github.com/Manoj-2702/G2Hack_TryCatchDevs/assets/92267208/a5e87fd9-2b8c-4b7d-a45e-50089ddbfaca)
+![image](https://github.com/nandishns/Automated-Software-and-Product-Listing-Platform/assets/92267208/a5e87fd9-2b8c-4b7d-a45e-50089ddbfaca)
 
 ## Kubectl
-![image](https://github.com/Manoj-2702/G2Hack_TryCatchDevs/assets/92267208/ee4d1dd8-9ad0-4855-8a27-bb148feedcba)
+![image](https://github.com/nandishns/Automated-Software-and-Product-Listing-Platform/assets/92267208/ee4d1dd8-9ad0-4855-8a27-bb148feedcba)
 
