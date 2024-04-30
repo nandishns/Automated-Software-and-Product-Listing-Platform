@@ -1,0 +1,5 @@
+selenium==4.19.0
+kafka-python==2.0.2
+python-dotenv==0.19.2
+webdriver-manager>=4.0.1
+beautifulsoup4==4.12.3
