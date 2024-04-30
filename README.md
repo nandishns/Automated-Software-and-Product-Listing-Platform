@@ -1,25 +1,8 @@
 # Automated Software and Product Listing Platform
 
-### Website
-https://trycatchdevs.streamlit.app/
-
 ## Overview
 
 This project automates the listing of B2B software products on G2, ensuring that new software is promptly and efficiently added to the G2 marketplace. By leveraging advanced web scraping techniques, real-time data streaming, and automated workflows, this system maximizes the visibility and accessibility of new software products, particularly in regions where G2 has low penetration.
-
-## Problem Statement
-
-1. G2 is the largest software marketplace in the world, with over 165,000 listed products and
-   real reviews. Our mission is to help every software buyer make informed purchasing
-   decisions. To achieve this, we want all B2B software products to be listed on G2 as soon as
-   they become generally available. While this is common practice in North America, Asia,
-   and some other countries, there are regions where G2 has low visibility and companies do
-   not list their products with us. Therefore, we want to identify such products and get them
-   listed on G2 proactively.
-   As an aspiring Computer Science graduate, we would like you to develop a system that
-   periodically identifies new GA products (daily, weekly, or monthly), checks their availability
-   on G2 using the API provided below, and provides a list of any products that are not yet
-   listed on G2 (this could be in a database or a CSV file).
 
 ## Project Goals
 
@@ -82,12 +65,11 @@ LLMs analyze textual data from news and social media to extract and verify new p
 Kubernetes ensures scalable and resilient deployment of all system components.
 
 ## Project Architecture
-
-![image](https://github.com/nandishns/Automated-Software-and-Product-Listing-Platform/assets/92267208/c6b9b71b-4540-45ab-b600-c4ede2bec064)
+![image](https://github.com/Manoj-2702/G2Hack/assets/92267208/c6b9b71b-4540-45ab-b600-c4ede2bec064)
 
 ## Kafka Architecture
 
-![image](https://github.com/nandishns/Automated-Software-and-Product-Listing-Platform/assets/92267208/4ce38d65-ebe1-4a2f-8db8-ea07ac804fc9)
+![image](https://github.com/Manoj-2702/G2Hack/assets/92267208/4ce38d65-ebe1-4a2f-8db8-ea07ac804fc9)
 
 ## Streamlit Website
 
