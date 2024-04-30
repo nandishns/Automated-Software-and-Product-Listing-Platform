@@ -1,0 +1,6 @@
+**/.env
+/.env
+KafkaConsumer/NewsLLM/.env
+Scraper/.env
+KafkaConsumer/TwitterConsumer/.env
+KafkaConsumer/Software/.env
